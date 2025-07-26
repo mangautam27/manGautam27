@@ -3,15 +3,22 @@
 <!-- <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kamna16&label=Profile%20views&color=0e75b6&style=flat" alt="kamna16" /> </p>
  -->
-<br>
 
-## 🔍 Looking for Opportunities
+
+
+<br>
+<img align="right" alt="Boy Coding at Computer" width="400"
+     src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMG1nMm02OTJpY2RhN2V6YnU3Mnc0eXpmeDdhbnI4eGpnbGdhOGp0bCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"
+     style="margin-top: 20px; margin-left: 20px;" />
+     
+ <h3 align="left">🔍 Looking for Opportunities</h3>
 
 - 👯 Eager to **contribute** and **collaborate** on **software projects** in any way I can.
 
 - 📫 How to reach me **manngautam88@gmail.com**
 
 - ⚡ Fun fact **I am Creative**
+- 
 <br>
 <!--<h3 align="left">Connect with me:</h3>-->
 
