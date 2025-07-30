@@ -18,7 +18,6 @@
 - 📫 How to reach me **manngautam88@gmail.com**
 
 - ⚡ Fun fact **I am Creative**
-- 
 <br>
 <!--<h3 align="left">Connect with me:</h3>-->
 
